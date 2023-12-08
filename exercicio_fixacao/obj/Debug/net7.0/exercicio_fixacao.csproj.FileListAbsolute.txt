@@ -1,0 +1,14 @@
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\bin\Debug\net7.0\exercicio_fixacao.exe
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\bin\Debug\net7.0\exercicio_fixacao.deps.json
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\bin\Debug\net7.0\exercicio_fixacao.runtimeconfig.json
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\bin\Debug\net7.0\exercicio_fixacao.dll
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\bin\Debug\net7.0\exercicio_fixacao.pdb
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\exercicio_fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\exercicio_fixacao.AssemblyInfoInputs.cache
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\exercicio_fixacao.AssemblyInfo.cs
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\exercicio_fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\exercicio_fixacao.dll
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\refint\exercicio_fixacao.dll
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\exercicio_fixacao.pdb
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\exercicio_fixacao.genruntimeconfig.cache
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_fixacao\obj\Debug\net7.0\ref\exercicio_fixacao.dll
