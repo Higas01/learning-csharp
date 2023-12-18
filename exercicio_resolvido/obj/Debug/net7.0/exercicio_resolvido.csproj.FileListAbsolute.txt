@@ -1,0 +1,14 @@
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\bin\Debug\net7.0\exercicio_resolvido.exe
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\bin\Debug\net7.0\exercicio_resolvido.deps.json
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\bin\Debug\net7.0\exercicio_resolvido.runtimeconfig.json
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\bin\Debug\net7.0\exercicio_resolvido.dll
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\bin\Debug\net7.0\exercicio_resolvido.pdb
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\exercicio_resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\exercicio_resolvido.AssemblyInfoInputs.cache
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\exercicio_resolvido.AssemblyInfo.cs
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\exercicio_resolvido.csproj.CoreCompileInputs.cache
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\exercicio_resolvido.dll
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\refint\exercicio_resolvido.dll
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\exercicio_resolvido.pdb
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\exercicio_resolvido.genruntimeconfig.cache
+C:\Users\Higor\OneDrive\Área de Trabalho\C#\exercicio_resolvido\obj\Debug\net7.0\ref\exercicio_resolvido.dll
